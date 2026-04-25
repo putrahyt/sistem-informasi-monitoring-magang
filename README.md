@@ -18,7 +18,7 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
     <td><img src="https://github.com/user-attachments/assets/2e9915ab-895a-4b44-a689-da4b52e747f7" width="100%"/><br/><p align="center">Penilaian Peserta</p></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github.com/user-attachments/assets/6852549f-ea32-4ac0-b7d4-c9ba5aef18ff" width="100%"/><br/><p align="center">Dashboard Tamu</p></td>
+    <td colspan="2"><img src="https://github.com/user-attachments/assets/6852549f-ea32-4ac0-b7d4-c9ba5aef18ff" width="100%"/><br/><p align="center">Profil</p></td>
   </tr>
 </table>
 ---
