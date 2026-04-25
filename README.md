@@ -1,10 +1,9 @@
-# Sistem Informasi Monitoring Magang
+# 🎓 Sistem Informasi Monitoring Magang
 
 Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup absensi, laporan aktivitas, bimbingan, hingga penilaian peserta.
 
----
 
-## Screenshot
+## 📸 Screenshot
 
 ![Dashboard](https://github.com/user-attachments/assets/a55fd951-d7df-4887-93d5-ffde66f68176)
 ![Manajemen Peserta](https://github.com/user-attachments/assets/c35f442a-a525-4689-96ce-4fba69dcf66f)
@@ -16,17 +15,17 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
 
 ---
 
-## Teknologi
+## 🛠️ Teknologi
 - PHP Native dengan arsitektur MVC
 - MySQL
-- Bootstrap 4
+- Bootstrap
 - PHPMailer
 - jQuery & AJAX
 - SweetAlert2
 
 ---
 
-## Fitur
+## ✨ Fitur
 - Manajemen peserta magang
 - Absensi peserta
 - Laporan aktivitas peserta
@@ -39,7 +38,7 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
 
 ---
 
-## Demo Login
+## 👤 Demo Login
 
 | Role | Username / Email | Password |
 |------|-----------------|----------|
@@ -50,7 +49,7 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
 
 ---
 
-## Instalasi
+## ⚙️ Instalasi
 1. Clone repo ini
 ```bash
    git clone https://github.com/putrahyt/sistem-informasi-monitoring-magang.git
@@ -64,5 +63,3 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
 5. Jalankan di localhost / Laragon
 
 ---
-
-## 📁 Struktur Project
