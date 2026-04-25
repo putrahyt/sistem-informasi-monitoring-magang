@@ -21,7 +21,7 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
     <td colspan="2"><img src="https://github.com/user-attachments/assets/6852549f-ea32-4ac0-b7d4-c9ba5aef18ff" width="100%"/><br/><p align="center">Profil</p></td>
   </tr>
 </table>
----
+
 
 ## 🛠️ Teknologi
 - PHP Native dengan arsitektur MVC
