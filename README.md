@@ -6,8 +6,8 @@ Sistem informasi untuk memonitor kegiatan peserta magang di instansi, mencakup a
 ## 📸 Screenshot
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a55fd951-d7df-4887-93d5-ffde66f68176" width="100%"/><br/><p align="center">Dashboard</p></td>
-    <td><img src="https://github.com/user-attachments/assets/c35f442a-a525-4689-96ce-4fba69dcf66f" width="100%"/><br/><p align="center">Manajemen Peserta</p></td>
+    <td><img src="https://github.com/user-attachments/assets/a55fd951-d7df-4887-93d5-ffde66f68176" width="100%"/><br/><p align="center">Halaman Utama</p></td>
+    <td><img src="https://github.com/user-attachments/assets/c35f442a-a525-4689-96ce-4fba69dcf66f" width="100%"/><br/><p align="center">Dashboard</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c3c6c6fe-ada0-4b24-bffc-46c1b2090735" width="100%"/><br/><p align="center">Absensi</p></td>
